@@ -1,0 +1,24 @@
+{
+  "name": "animationFrame",
+  "version": "0.0.1",
+  "main": "animationframe.min.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "build",
+    "speed",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "keywords": [
+    "animationframe",
+    "javascript",
+    "library",
+    "jquery",
+    "requestanimationframe",
+    "webanimations"
+  ]
+}
