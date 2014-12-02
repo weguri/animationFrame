@@ -4,11 +4,16 @@ AnimationFrameJS
 This is a plugin written by @donlion (Leo Ørsnes).
 Start using animation frames for webanimations and math-transitions!
 
+<<<<<<< HEAD
 Depends on **jQuery**
 
 
 Example:
 -----------------------
+=======
+##Example:
+```
+>>>>>>> FETCH_HEAD
 $(".dom").animationFrame({
   "duration": 1000,
   "easing": "linear|ease|cubicBezier",
@@ -23,10 +28,11 @@ $(".dom").animationFrame({
     "height": "50%"
   }
 });
+```
 
 
-Math example:
------------------------
+##Math example:
+```
 $(".dom").animationFrame({
   "duration": 1000,
   "easing": "ease",
@@ -39,3 +45,4 @@ $(".dom").animationFrame({
     "height": "50%"
   }
 });
+```
