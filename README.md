@@ -4,8 +4,9 @@ AnimationFrameJS
 This is a plugin written by @donlion (Leo Ørsnes).
 Start using animation frames for webanimations and math-transitions!
 
-Example:
+##Example:
 -----------------------
+```
 $(".dom").animationFrame({
   "duration": 1000,
   "easing": "linear|ease|cubicBezier",
@@ -20,10 +21,12 @@ $(".dom").animationFrame({
     "height": "50%"
   }
 });
+```
 
 
-Math example:
+##Math example:
 -----------------------
+```
 $(".dom").animationFrame({
   "duration": 1000,
   "easing": "ease",
@@ -36,3 +39,4 @@ $(".dom").animationFrame({
     "height": "50%"
   }
 });
+```
