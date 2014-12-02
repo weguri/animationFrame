@@ -4,7 +4,6 @@ AnimationFrameJS
 This is a plugin written by @donlion (Leo Ørsnes).
 Start using animation frames for webanimations and math-transitions!
 
-<<<<<<< HEAD
 Depends on **jQuery**
 
 
