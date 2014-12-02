@@ -7,9 +7,7 @@ Start using animation frames for webanimations and math-transitions!
 Depends on **jQuery**
 
 
-Example:
------------------------
-=======
+
 ##Example:
 ```
 >>>>>>> FETCH_HEAD
