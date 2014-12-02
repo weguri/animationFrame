@@ -1,5 +1,5 @@
 {
-  "name": "animationFrame",
+  "name": "animationframe",
   "version": "0.0.1",
   "main": "animationframe.min.js",
   "license": "MIT",
@@ -14,6 +14,7 @@
     "package.json"
   ],
   "keywords": [
+  	"animation-frame",
     "animationframe",
     "javascript",
     "library",

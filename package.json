@@ -1,5 +1,5 @@
 {
-  "name": "animationFrame",
+  "name": "animationframe",
   "title": "AnimationFrameJS",
   "description": "JavaScript library for animating with animation frames",
   "version": "0.0.1",
@@ -14,6 +14,7 @@
     "url": "https://github.com/donlion/animationFrame.git"
   },
   "keywords": [
+    "animation-frame",
     "animationframe",
     "javascript",
     "library",
