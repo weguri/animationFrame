@@ -32,6 +32,9 @@ $.fn.extend({
 			},
 			'to': {
 				"height" : "100%"
+			},
+			'finish': function(el) {
+				return;
 			}
 		};
 
@@ -127,6 +130,12 @@ $.fn.extend({
 					}
 
 					$(el).css(difObj);
+
+					if (typeof args.finish == "function") {
+						args.finish(el);
+					}
+
+					console.log(args.finish);
 
 					return true;
 				}

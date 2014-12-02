@@ -27,6 +27,9 @@ $(".dom").animationFrame({
     "left": "100px",
     "top": "60px",
     "height": "50%"
+  },
+  "finish": function(dom) {
+    $(dom).hide(200).show(200);
   }
 });
 ```
