@@ -6,7 +6,12 @@ Start using animation frames for webanimations and math-transitions!
 
 Depends on **jQuery**
 
-
+##Install
+Either run
+```
+bower install animationframe
+```
+or download the js files from this repository
 
 ##Example:
 ```
