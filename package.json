@@ -1,0 +1,35 @@
+{
+  "name": "animationFrame",
+  "title": "AnimationFrameJS",
+  "description": "JavaScript library for animating with animation frames",
+  "version": "0.0.1",
+  "main": "animationframe.min.js",
+  "homepage": "http://genz.io",
+  "author": {
+    "name": "Leo Ørsnes",
+    "url": "https://github.com/donlion"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donlion/animationFrame.git"
+  },
+  "keywords": [
+    "animationframe",
+    "javascript",
+    "library",
+    "jquery",
+    "requestanimationframe",
+    "webanimations"
+  ],
+  "bugs": {
+    "url": "https://github.com/donlion/animationFrame/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery"
+  }
+}
