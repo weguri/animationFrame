@@ -10,7 +10,6 @@ Depends on **jQuery**
 
 ##Example:
 ```
->>>>>>> FETCH_HEAD
 $(".dom").animationFrame({
   "duration": 1000,
   "easing": "linear|ease|cubicBezier",
