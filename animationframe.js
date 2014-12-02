@@ -1,5 +1,10 @@
 $.fn.extend({
 
+	/*
+	A plugin by Leo Ørsnes, @donlion
+	Free to use in any case
+	*/
+
 	animationFrame: function(args) {
 
 		var _this = this;
@@ -143,7 +148,7 @@ $.fn.extend({
 						//styles.push(key, firstVal+(valDif*percent)+"px");
 						console.log(valDif);
 					} else {
-						if (firstVal.indexOf("px") >= 0 && lastVal.indexOf("px") >= 0) {
+						if (firstVal.indexOf("px") >= 0 && lastVal.indexOf("px") >= 0) 	{
 							firstVal = firstVal.replace("px", "");
 							lastVal = lastVal.replace("px", "");
 							valDif = lastVal-firstVal;
