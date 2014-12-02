@@ -5,7 +5,6 @@ This is a plugin written by @donlion (Leo Ørsnes).
 Start using animation frames for webanimations and math-transitions!
 
 ##Example:
------------------------
 ```
 $(".dom").animationFrame({
   "duration": 1000,
@@ -25,7 +24,6 @@ $(".dom").animationFrame({
 
 
 ##Math example:
------------------------
 ```
 $(".dom").animationFrame({
   "duration": 1000,
